@@ -1,8 +1,7 @@
-# Unit 5 Homework: The Power of Plots
+# The Power of Plots
 
 What good is data without a good plot to tell the story?
 
-In this homework assignment, you’ll apply what you've learned about Matplotlib and to a real-world situation and dataset.
 ## Background
 
 You've just  joined Pymaceuticals Inc., a new pharmaceutical company that specializes in anti-cancer pharmaceuticals. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
@@ -73,9 +72,7 @@ Create two summary statistics DataFrames:
     
 2. Using Matplotlib, generate a box plot of the final tumor volume for all four treatment regimens. Highlight any potential outliers in the plot by changing their color and style.
 
-  **Hint**: All four box plots should be within the same figure. Use this [Matplotlib documentation page](https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py) for help with changing the style of the outliers.
-
-### Create a Line Plot and a Scatter Plot
+ ### Create a Line Plot and a Scatter Plot
 
 1. Select a mouse that was treated with Capomulin and generate a line plot of tumor volume vs. time point for that mouse.
 
@@ -87,41 +84,10 @@ Create two summary statistics DataFrames:
 
 2. Plot the linear regression model on top of the previous scatter plot.
 
-### Submit Your Final Analysis
+### Final Analysis
 
-Review all the figures and tables that you generated in this assignment. Write at least three observations or inferences that can be made from the data. Include these observations at the top of your notebook.
+Review all the figures and tables that you generated in this project. Write at least three observations or inferences that can be made from the data. Include these observations at the top of your notebook.
 
-## Hints and Considerations
-
-* Use the code comments in the provided starter file to guide you through this assignment. 
-
-* Use proper labeling for your plots, that is, include plot titles, axis labels, legend labels, _x_-axis and _y_-axis limits, etc.
-
-* While working on this assignment, refer to Stack Overflow and the Matplotlib documentation as needed. These are essential tools in every data analyst's tool belt.
-
-* Remember that there are many ways to approach a data problem. One way to break up your task into micro tasks. For example, ask yourself questions like the following:
-
-  * How does my DataFrame need to be structured in order to have the right _x_-axis and _y_-axis?
-
-  * How do I build a basic scatter plot?
-
-  * How do I add a label to a scatter plot?
-
-  * Where in the DataFrame can I find the names that will go into the labels?
-
- 
-* Get help when you need it! Your instructional team is here to help.
-## Rubric
-
-[Unit 5 Homework Rubric](https://docs.google.com/document/d/1ZZ0lFGHqKwVdqjTCfynY2FSiswuOMBVi9An7oWeg344/edit?usp=sharing)
-
-- - -
-
-## References
-
-Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
-
-- - -
-
-© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+## Technologies used: 
+Matplotlib, VS Code, Python, Pandas, Jupyter Notebook, Stack Overflow
 
