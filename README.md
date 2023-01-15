@@ -8,6 +8,8 @@ I've just  joined Pymaceuticals Inc., a new pharmaceutical company that speciali
 
 As a senior data analyst at the company, I have been given access to the complete data from their most recent animal study. In this study, 249 mice identified with SCC tumor growth were treated with a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. 
 
+![image](https://user-images.githubusercontent.com/100399092/212573550-dd36c71c-a1d2-4d38-9cd0-31652be4ffea.png)
+
 The executive team has tasked me with generating all of the tables and figures needed for the technical report of the study. They have also asked for a top-level summary of the study results.
 
 ## Instructions
