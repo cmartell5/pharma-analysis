@@ -90,6 +90,6 @@ Create two summary statistics DataFrames:
 
 Review all the figures and tables that were generated in this project. Write at least three observations or inferences that can be made from the data. 
 
-## Technologies used: 
+## Technologies used
 Matplotlib, VS Code, Python, Pandas, Jupyter Notebook, Stack Overflow
 
